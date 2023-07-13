@@ -1,0 +1,26 @@
+{
+  "name": "internshipassignment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "firebase": "^10.0.0",
+    "git": "^0.1.5",
+    "init": "^0.1.2",
+    "mongodb": "4.1",
+    "mongoose": "^7.3.1",
+    "nodemon": "^1.19.4",
+    "socket.io": "^4.7.1"
+  },
+  "keywords": [],
+  "description": ""
+}
